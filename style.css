@@ -1,0 +1,56 @@
+body
+{
+    text-align: center;
+    background-color: darkkhaki;
+    margin: 0;
+}
+#Welcome
+{
+    position: absolute;
+    font-family: fantasy;
+    font-size: 50px;
+    width: 100%;
+}
+#img1
+{
+    border-radius: 50%;
+    width: 400px;
+    margin-bottom: 50px;
+}
+.menu
+{
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    font-family: inherit;
+}
+.links
+{
+    float: left;
+    color: darkred;
+    font-style: bold;
+    font-size: 20px;
+    padding-left: 4px;
+    padding-right: 9px;
+}
+#h1
+{
+    font-size: 40px;
+    font-family: 'Cinzel&display=swap',cursive;
+    font-weight: 300;
+}
+.line
+{
+    height:6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;  
+}
+p
+{
+    margin: 25px auto;
+    max-width: 600px;
+    font-size: 20px;
+}
